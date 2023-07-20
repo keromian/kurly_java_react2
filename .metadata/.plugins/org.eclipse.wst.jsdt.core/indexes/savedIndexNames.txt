@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\풀스택김인수\7월\0719_자바기반_리액트_포트폴리오_마켓컬리_배포\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+359171987.index
+1318131210.index
+4202621015.index
+3794664735.index
+3031321845.index
+1963678187.index
